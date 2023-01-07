@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 12.3.2//EN
+N:A;Sam;;;
+FN:Sam Test
+TEL;type=CELL;type=VOICE;type=pref:+91234567890
+REV:2019-07-10T16:03:49Z
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.15.1//EN
+N:LASTTEST;FIRSTTEST;;;
+FN: FIRSTTEST LASTTESt
+TEL;type=CELL;type=VOICE;type=pref:+11234567890
+ORG:Makes Pies;
+TITLE:Baker
+EMAIL;type=INTERNET;type=pref:pie@cake.isalie
+ADR;type=HOME;type=pref:;;130 cake street\, Apt 5E;New York;New York;
+ 10009;United States
+item1.URL;type=pref:www.google.com
+item1.X-ABLabel:_$!<HomePage>!$_
+BDAY:1982-09-02
+IMPP;X-SERVICE-TYPE=Facebook;type=pref:xmpp:cakemessages
+REV:2019-12-02T03:00:50Z
+END:VCARD
